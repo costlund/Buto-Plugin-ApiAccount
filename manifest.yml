@@ -1,0 +1,21 @@
+version: 1.0.0
+history:
+  1.0.0:
+    date: '2021-04-05'
+    title: 'First version'
+    description: 'First version. Manifest created.'
+plugin:
+  -
+    name: wf/account2
+    version: 1.13.1
+sys:
+  -
+    name: mercury
+    version:
+      - '1.0'
+php:
+  - '7.2'
+author: null
+links: null
+description: ''
+third_part_software: null
