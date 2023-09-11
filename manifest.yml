@@ -1,5 +1,9 @@
-version: 1.0.11
+version: 1.0.12
 history:
+  1.0.12:
+    date: '2023-09-11'
+    title: Versions
+    description: 'Versions update.'
   1.0.11:
     date: '2023-07-25'
     title: Versions
@@ -51,7 +55,7 @@ history:
 plugin:
   -
     name: wf/account2
-    version: 1.25.0
+    version: 1.26.2
 sys:
   -
     name: mercury
